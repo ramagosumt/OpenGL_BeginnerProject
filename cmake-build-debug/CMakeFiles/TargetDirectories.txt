@@ -1,0 +1,3 @@
+B:/OpenGL Projects/LearnOpenGL/cmake-build-debug/CMakeFiles/LearnOpenGL.dir
+B:/OpenGL Projects/LearnOpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/OpenGL Projects/LearnOpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
